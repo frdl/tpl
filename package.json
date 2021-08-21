@@ -1,0 +1,13 @@
+{
+  "name": "@frdl/tpl",
+  "version": "0.0.1",
+  "description": "Simple templates helper",
+  "main": "index.js",
+  "author": "Till Wehowski",
+  "license": "MIT",
+  "homepage": "https://github.com/frdl/tpl",
+  "repository": "https://github.com/frdl/tpl.git",
+  "dependencies":{
+         "nano-var-template":"2.0.1"
+   }
+}
